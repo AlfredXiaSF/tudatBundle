@@ -10,9 +10,6 @@
 [submodule "nrlmsise-00"]
 	path = nrlmsise-00
 	url = https://hub.fastgit.org/tudat/nrlmsise-00.git
-[submodule "boost"]
-	path = boost
-	url = https://hub.fastgit.org/boostorg/boost.git
 [submodule "sofa"]
 	path = sofa
 	url = https://hub.fastgit.org/tudat/sofa.git
