@@ -1,36 +1,36 @@
 [submodule "tudat"]
 	path = tudat
-	url = https://github.com/Tudat/tudat.git
+	url = https://hub.fastgit.org/Tudat/tudat.git
 [submodule "tudatExampleApplications"]
 	path = tudatExampleApplications
-	url = https://github.com/Tudat/tudatExampleApplications.git
+	url = https://hub.fastgit.org/Tudat/tudatExampleApplications.git
 [submodule "eigen"]
 	path = eigen
-	url = https://github.com/tudat/eigen.git
+	url = https://hub.fastgit.org/tudat/eigen.git
 [submodule "nrlmsise-00"]
 	path = nrlmsise-00
-	url = https://github.com/tudat/nrlmsise-00.git
+	url = https://hub.fastgit.org/tudat/nrlmsise-00.git
 [submodule "boost"]
 	path = boost
-	url = https://github.com/boostorg/boost.git
+	url = https://hub.fastgit.org/boostorg/boost.git
 [submodule "sofa"]
 	path = sofa
-	url = https://github.com/tudat/sofa.git
+	url = https://hub.fastgit.org/tudat/sofa.git
 [submodule "json"]
 	path = json
-	url = https://github.com/tudat/json.git
+	url = https://hub.fastgit.org/tudat/json.git
 [submodule "matlabInterface"]
 	path = matlabInterface
-	url = https://github.com/tudat/tudat-matlab.git
+	url = https://hub.fastgit.org/tudat/tudat-matlab.git
 [submodule "nlopt"]
 	path = nlopt
-	url = https://github.com/tudat/nlopt
+	url = https://hub.fastgit.org/tudat/nlopt
 [submodule "cspice"]
 	path = cspice
-	url = https://github.com/tudat/cspice.git
+	url = https://hub.fastgit.org/tudat/cspice.git
 [submodule "pagmo2"]
 	path = pagmo2
-	url = https://github.com/tudat/pagmo2
+	url = https://hub.fastgit.org/tudat/pagmo2
 [submodule "tbb"]
 	path = tbb
-	url = https://github.com/DominicDirkx/tbb
+	url = https://hub.fastgit.org/DominicDirkx/tbb
